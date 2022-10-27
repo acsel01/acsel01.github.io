@@ -137,7 +137,7 @@
         "incorrecta2": "Chacarera",
         "incorrecta3": "Merengue",
         "imagen": "https://i.ibb.co/ZgBKTKh/tanggo.jpg",
-        "objectFit": "cover"
+        "objectFit": "contain"
     },
     {
         "categoria": "Deportes",
