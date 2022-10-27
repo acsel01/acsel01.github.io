@@ -1,0 +1,162 @@
+[
+    {
+        "categoria": "Fútbol",
+        "pregunta": "¿De qué provincia es Lionel Messi?",
+        "respuesta": "Santa Fe",
+        "incorrecta1": "Buenos Aires",
+        "incorrecta2": "Tucumán",
+        "incorrecta3": "Santa Cruz",
+        "imagen": "https://i.ibb.co/BTg8VVm/messi.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Fútbol",
+        "pregunta": "¿Cuántas copas del mundo tiene Argentina?",
+        "respuesta": "2",
+        "incorrecta1": "1",
+        "incorrecta2": "3",
+        "incorrecta3": "Ninguna",
+        "imagen": "https://i.ibb.co/V2nL9DM/cuantascopastenes.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "Completa la frase: No estamos para...",
+        "respuesta": "Tirar manteca al techo",
+        "incorrecta1": "El derroche",
+        "incorrecta2": "Gastar tanto",
+        "incorrecta3": "Despilfarrar",
+        "imagen": "https://i.ibb.co/Q8S8RTG/arg.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuál de los siguientes sería un desayuno típico en Argentina?",
+        "respuesta": "Café con leche y medialunas",
+        "incorrecta1": "Tostada con palta",
+        "incorrecta2": "Huevos con tocino",
+        "incorrecta3": "Huevos rancheros",
+        "imagen": "https://i.ibb.co/G50tKBv/desayuno.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "Infusión característica de Argentina",
+        "respuesta": "Mate",
+        "incorrecta1": "Tila",
+        "incorrecta2": "Valeriana",
+        "incorrecta3": "Té de jengibre",
+        "imagen": "https://i.ibb.co/WPVmBdg/matee.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué nombre se le atribuye a esta factura argentina?",
+        "respuesta": "Tortita negra",
+        "incorrecta1": "Vigilante",
+        "incorrecta2": "Bola de fraile",
+        "incorrecta3": "Cañoncito",
+        "imagen": "https://i.ibb.co/QY4nG8V/tortitanegra.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cómo se llama esta icónica estructura ubicada en la 9 de Julio?",
+        "respuesta": "Obelisco",
+        "incorrecta1": "Puntera",
+        "incorrecta2": "Vila",
+        "incorrecta3": "Cúspide",
+        "imagen": "https://i.ibb.co/f9wF57S/obelisco.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cómo se llama esta comida?",
+        "respuesta": "Choripán",
+        "incorrecta1": "Locro",
+        "incorrecta2": "Asado",
+        "incorrecta3": "Empanadas",
+        "imagen": "https://i.ibb.co/9Hc3vtV/choripan.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuál es el partido 'clásico' del fútbol argentino?",
+        "respuesta": "Boca Juniors vs River Plate",
+        "incorrecta1": "Boca Juniors vs Racing Club",
+        "incorrecta2": "Huracán vs San Lorenzo",
+        "incorrecta3": "Argentinos Juniors vs Newell's Old Boys",
+        "imagen": "https://i.ibb.co/mRDjDDL/furbo.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cómo se llama la moneda Argentina?",
+        "respuesta": "Peso",
+        "incorrecta1": "Real",
+        "incorrecta2": "Won",
+        "incorrecta3": "Dolar",
+        "imagen": "https://i.ibb.co/NSWFx8k/peso.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cómo se llama esta niña, personaje principal de una famosa historieta Argentina?",
+        "respuesta": "Mafalda",
+        "incorrecta1": "Gaturro",
+        "incorrecta2": "Mickey",
+        "incorrecta3": "Coné",
+        "imagen": "https://i.ibb.co/mvVV5xg/mafalda.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cómo se llaman estas galletitas?",
+        "respuesta": "Don Satur",
+        "incorrecta1": "Pitusas",
+        "incorrecta2": "Rumba",
+        "incorrecta3": "Cerealitas",
+        "imagen": "https://i.ibb.co/vxvxVRr/donsatur.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuál es el nombre de este prócer argentino?",
+        "respuesta": "José de San Martin",
+        "incorrecta1": "Juan Manuel de Rosas",
+        "incorrecta2": "Manuel Belgrano",
+        "incorrecta3": "Domingo Faustino Sarmiento",
+        "imagen": "https://i.ibb.co/yhGW6bj/sanmartin.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué baile es considerado patrimonio Argentino?",
+        "respuesta": "Tango",
+        "incorrecta1": "Malambo",
+        "incorrecta2": "Chacarera",
+        "incorrecta3": "Merengue",
+        "imagen": "https://i.ibb.co/M8KDrLg/tango.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "La foto muestra un típico postre argentino. ¿Cuál es su nombre?",
+        "respuesta": "Chocotorta",
+        "incorrecta1": "Flan con dulce de leche",
+        "incorrecta2": "Budín de pan",
+        "incorrecta3": "Alfajores",
+        "imagen": "https://i.ibb.co/V3xQXHK/chocotorta.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "El personaje de la foto es un típico habitante de los campos argentinos. ¿Cómo se le denomina?",
+        "respuesta": "Gaucho",
+        "incorrecta1": "Estanciero",
+        "incorrecta2": "Campesino",
+        "incorrecta3": "Malevo",
+        "imagen": "https://i.ibb.co/qBTqfxG/gaucho.jpg",
+        "objectFit": "contain"
+    }
+]
