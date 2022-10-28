@@ -12,10 +12,10 @@
     {
         "categoria": "Fútbol",
         "pregunta": "¿En cuántas finales del mundial participó Argentina?",
-        "respuesta": "3",
+        "respuesta": "5",
         "incorrecta1": "6",
         "incorrecta2": "8",
-        "incorrecta3": "5",
+        "incorrecta3": "3",
         "imagen": "https://i.ibb.co/nrbtrZ9/seleccion1.jpg",
         "objectFit": "contain"
     },
