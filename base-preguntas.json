@@ -1,0 +1,62 @@
+[
+    {
+        "categoria": "Fútbol",
+        "pregunta": "¿En qué año debutó Lionel Messi con la selección Argentina?",
+        "respuesta": "2005",
+        "incorrecta1": "2002",
+        "incorrecta2": "2003",
+        "incorrecta3": "2007",
+        "imagen": "https://i.ibb.co/McmbWfd/mesi1.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Fútbol",
+        "pregunta": "¿En cuántas finales del mundial participó Argentina?",
+        "respuesta": "3",
+        "incorrecta1": "6",
+        "incorrecta2": "8",
+        "incorrecta3": "5",
+        "imagen": "https://i.ibb.co/nrbtrZ9/seleccion1.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cómo se llama esta icónica estructura ubicada en la 9 de Julio?",
+        "respuesta": "Obelisco",
+        "incorrecta1": "Puntera",
+        "incorrecta2": "Vila",
+        "incorrecta3": "Cúspide",
+        "imagen": "https://i.ibb.co/XzDxNtR/obeliscoco.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "Proveniente del latín argentum, ¿Qué significa el término 'Argentina'?",
+        "respuesta": "Plata",
+        "incorrecta1": "Río",
+        "incorrecta2": "Maíz",
+        "incorrecta3": "Templado",
+        "imagen": "https://i.ibb.co/hyzvg75/argentinana.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué procer argentino se encuentra en el billete de $20 pesos?",
+        "respuesta": "Juan Manuel de Rosas",
+        "incorrecta1": "José de San Martin",
+        "incorrecta2": "Manuel Belgrano",
+        "incorrecta3": "Domingo Faustino Sarmiento",
+        "imagen": "https://i.ibb.co/GRwMptv/rosas.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿En qué año se declaró la independencia Argentina?",
+        "respuesta": "9 De julio de 1816",
+        "incorrecta1": "24 de marzo de 1868",
+        "incorrecta2": "7 de septiembre de 1714",
+        "incorrecta3": "24 de mayo de 1810",
+        "imagen": "https://i.ibb.co/8rryQ42/independencia.jpg",
+        "objectFit": "contain"
+    }
+]
